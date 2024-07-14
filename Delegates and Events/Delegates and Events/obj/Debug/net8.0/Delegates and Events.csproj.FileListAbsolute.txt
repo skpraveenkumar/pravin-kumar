@@ -1,0 +1,14 @@
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.exe
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.deps.json
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.runtimeconfig.json
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.dll
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\bin\Debug\net8.0\Delegates and Events.pdb
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.AssemblyInfoInputs.cache
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.AssemblyInfo.cs
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.csproj.CoreCompileInputs.cache
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.dll
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\obj\Debug\net8.0\refint\Delegates and Events.dll
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.pdb
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\obj\Debug\net8.0\Delegates and Events.genruntimeconfig.cache
+C:\Users\Praveen Kumar K\source\repos\Delegates and Events\Delegates and Events\obj\Debug\net8.0\ref\Delegates and Events.dll
